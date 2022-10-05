@@ -1,0 +1,73 @@
+body {
+    background-image: url("images/cafe.jpg");
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+.established{
+    font-style: italic;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+
+.menu{
+    width:80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.bottom-line{
+    margin-top: 25px;
+}
+
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor, .dessert, .burger{
+    text-align: left;
+    width:75%
+}
+
+.price{
+    text-align: right;
+    width:25%;
+}
+
+footer{
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 13px;
+}
+
+.address{
+    margin-bottom: 5px;
+}
